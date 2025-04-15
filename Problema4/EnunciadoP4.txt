@@ -1,0 +1,1 @@
+Para un programa en un lenguaje L, dado un cadena C escrito en L, muestre y cuente la ocurrencia de la palabra E en C.
