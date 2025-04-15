@@ -1,0 +1,2 @@
+Dado una cadena C, valide si C se encuentra en notación FEN 
+(Forsyth-Edwards Notation), Forsyth–Edwards Notation.
