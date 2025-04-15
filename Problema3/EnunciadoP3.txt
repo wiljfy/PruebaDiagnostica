@@ -1,0 +1,3 @@
+Implemente la evaluación de expresiones aritméticas considerando los operadores +,-,*,/ y los operandos pueden ser 
+ingresados en notación científica (125E25,5E-8 para denotar 12x1025, 5x10-8 respectivamente), la entrada al programa será una cadena 
+de caracteres con la expresión, ejemplo de expresión a evaluar: (125E10 – 1e15)/5E-85*15.
