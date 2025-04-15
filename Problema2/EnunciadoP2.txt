@@ -1,0 +1,3 @@
+Dado un número entero no negativo n, a) genere los coeficientes del polinomio (x+1)n,
+muestre el resultado de polinomio y b) muestre por pasos el cálculo para x dado, f(x) = (x+1)n ,según el polinomio generado.
+Para generar los polinomios de (x+1)n utilice el triangulo de pascal
